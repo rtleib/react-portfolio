@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ccba2d62.css",
-    "main.js": "/react-portfolio/static/js/main.e60e58cc.js",
+    "main.js": "/react-portfolio/static/js/main.457c4e6b.js",
     "static/js/787.51972ac4.chunk.js": "/react-portfolio/static/js/787.51972ac4.chunk.js",
     "static/media/radar-menu.png": "/react-portfolio/static/media/radar-menu.61619907abb2b731f57a.png",
     "static/media/Quiz.png": "/react-portfolio/static/media/Quiz.2b4b7a0952014f31143d.png",
     "static/media/Star-Wars.png": "/react-portfolio/static/media/Star-Wars.9a42575417a177e36774.png",
     "index.html": "/react-portfolio/index.html",
     "main.ccba2d62.css.map": "/react-portfolio/static/css/main.ccba2d62.css.map",
-    "main.e60e58cc.js.map": "/react-portfolio/static/js/main.e60e58cc.js.map",
+    "main.457c4e6b.js.map": "/react-portfolio/static/js/main.457c4e6b.js.map",
     "787.51972ac4.chunk.js.map": "/react-portfolio/static/js/787.51972ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccba2d62.css",
-    "static/js/main.e60e58cc.js"
+    "static/js/main.457c4e6b.js"
   ]
 }
