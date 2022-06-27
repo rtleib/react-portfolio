@@ -7,17 +7,20 @@ export default function Projects() {
   return (
     <div>
       <h1>Projects</h1>
-      <section>
+      <section class="quiz">
+        Coding Quiz
       <a href="https://rtleib.github.io/code-quiz-challenge-04/">
       <img class="img-responsive" src={quiz} alt="picture of quiz" width="330" height="170"/>
       </a>
       </section>
-      <section>
+      <section class="starwars">
+      Star Wars Weekly Scheduler
       <a href="https://rtleib.github.io/Star-Wars-Weekly-Scheduler/">
       <img class="img-responsive" src={starwars} alt="picture of star wars weekly scheduler"  width="330" height="170"/>
       </a>
       </section>
-      <section>
+      <section class="radar">
+      Radar Menu
       <a href="https://radar-menu.herokuapp.com/">
       <img class="img-responsive" src={radar} alt="picture of radar menu"  width="330" height="170"/>
       </a>
