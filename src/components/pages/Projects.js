@@ -12,17 +12,35 @@ export default function Projects() {
       <a href="https://rtleib.github.io/code-quiz-challenge-04/">
       <img class="img-responsive" src={quiz} alt="picture of quiz" width="330" height="170"/>
       </a>
+      <a href="https://github.com/rtleib/code-quiz-challenge-04" target="_blank">
+      <button>GitHub Repo</button>
+      </a>
+      <a href="https://rtleib.github.io/code-quiz-challenge-04/" target="_blank">
+      <button>Deployed Page</button>
+      </a>
       </section>
       <section class="starwars">
       Star Wars Weekly Scheduler
       <a href="https://rtleib.github.io/Star-Wars-Weekly-Scheduler/">
       <img class="img-responsive" src={starwars} alt="picture of star wars weekly scheduler"  width="330" height="170"/>
       </a>
+      <a href="https://github.com/rtleib/Star-Wars-Weekly-Scheduler" target="_blank">
+      <button>GitHub Repo</button>
+      </a>
+      <a href="https://rtleib.github.io/Star-Wars-Weekly-Scheduler/" target="_blank">
+      <button>Deployed Page</button>
+      </a>
       </section>
       <section class="radar">
       Radar Menu
       <a href="https://radar-menu.herokuapp.com/">
       <img class="img-responsive" src={radar} alt="picture of radar menu"  width="330" height="170"/>
+      </a>
+      <a href="https://github.com/rtleib/radar-menu" target="_blank">
+      <button>GitHub Repo</button>
+      </a>
+      <a href="https://radar-menu.herokuapp.com/" target="_blank">
+      <button>Deployed Page</button>
       </a>
       </section>
     </div>
