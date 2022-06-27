@@ -20,7 +20,6 @@ function Contact() {
   // We are also setting their initial values to an empty string
   const [email, setEmail] = useState('');
   const [userName, setUserName] = useState('');
-  // TODO: Create a password variable and a function "setPassword" using useState
   const [password, setPassword] = useState('');
 
   const [errorMessage, setErrorMessage] = useState('');
@@ -32,7 +31,6 @@ function Contact() {
     const inputValue = target.value;
 
     // Based on the input type, we set the state of either email, username, and password
-    // TODO: Add an else statement to the end that will set the password to the value of 'inputValue'
 
     if (inputType === 'email') {
       setEmail(inputValue);
@@ -63,7 +61,7 @@ function Contact() {
 
     // If successful, we want to clear out the input after registration.
     setUserName('');
-    // TODO: Set the password back to an empty string after the user clicks submit
+
     setPassword('');
     setEmail('');
     alert(`Hello ${userName}`);
@@ -87,7 +85,7 @@ function Contact() {
           type="text"
           placeholder="username"
         />
-        {/* TODO Add another input field with a value, name, type, and placeholder of "password" */}
+
         <input
           value={password}
           name="password"
@@ -96,7 +94,6 @@ function Contact() {
           placeholder="password"
         />
        
-        {/* TODO Add a `onChange` attribute with a value of `handleInputChange` */}
         <button type="button" onClick={handleContactSubmit}>
           Submit
         </button>
