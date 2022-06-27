@@ -5,8 +5,9 @@ export default function Projects() {
     <div>
       <h1>Projects Page</h1>
       <section>
-        <img href="https://rtleib.github.io/code-quiz-challenge-04/"
-        class="img-responsive" src="assets/images/Quiz.png" alt="picture of quiz" width="330" height="170"></img>
+      <a href="https://rtleib.github.io/code-quiz-challenge-04/">
+                <img class="img-responsive" src="assets/images/Quiz.png" alt="picture of quiz" width="330" height="170">   
+            </a>
         <li>
         <a href="https://rtleib.github.io/Star-Wars-Weekly-Scheduler/">
           </a>
